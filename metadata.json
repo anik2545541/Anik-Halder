@@ -1,0 +1,6 @@
+{
+  "name": "Zi Distribution Hub",
+  "description": "The premier B2B and wholesale digital supply chain platform for bulk orders, industrial supply, and fast nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
